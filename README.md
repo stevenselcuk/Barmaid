@@ -1,4 +1,6 @@
-# Barmaid
+# 🍸 Barmaid
+
+[Barmaid](https://imgur.com/aWZmQAM.gif)
 
 ## SwiftUI ready macOS menubar app boilerplate. Just add water 💧
 
